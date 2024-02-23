@@ -1,0 +1,49 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "mvm",
+    "section": "",
+    "text": "This file will become your README and also the index of your documentation.",
+    "crumbs": [
+      "mvm"
+    ]
+  },
+  {
+    "objectID": "index.html#install",
+    "href": "index.html#install",
+    "title": "mvm",
+    "section": "Install",
+    "text": "Install\npip install mvm",
+    "crumbs": [
+      "mvm"
+    ]
+  },
+  {
+    "objectID": "index.html#how-to-use",
+    "href": "index.html#how-to-use",
+    "title": "mvm",
+    "section": "How to use",
+    "text": "How to use\nFill me in please! Don’t forget code examples:\n\n1+1\n\n2",
+    "crumbs": [
+      "mvm"
+    ]
+  },
+  {
+    "objectID": "bathtub.html",
+    "href": "bathtub.html",
+    "title": "bathtub",
+    "section": "",
+    "text": "s_bathtub\n\n s_bathtub (params, substep, state_history, previous_state, policy_input)\n\n\n\n\np_bathtub\n\n p_bathtub (params, substep, state_history, state)",
+    "crumbs": [
+      "bathtub"
+    ]
+  },
+  {
+    "objectID": "core.html",
+    "href": "core.html",
+    "title": "core",
+    "section": "",
+    "text": "foo\n\n foo ()"
+  }
+]

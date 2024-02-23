@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "mvm"
+  site-url: "https://bonding-curves.github.io/mvm"
+  description: "Collection of minimum viable systems models with nbdev and cadcad."
+  repo-branch: main
+  repo-url: "https://github.com/bonding-curves/mvm"

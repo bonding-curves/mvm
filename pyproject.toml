@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "mvm"
+version = "0.1.0"
+description = "Collection of minimum viable systems models with nbdev and cadcad."
+authors = ["Shawn and Rohan"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+nbdev = "^2.3.13"
+quarto = "^0.1.0"
+jupyterlab = "^4.1.2"
+pandas = "^2.2.1"
+cadcad = "^0.5.1"
+tqdm = "^4.66.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
